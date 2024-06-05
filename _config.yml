@@ -1,13 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Gilberto Moura # your name (or website title) here
+logo: "/images/IMG_9170.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Descrevo aqui alguns dos projetos que participei durante minha carreira profissional.
   <br><br>
-  Second description 
+  Com mais de 20 anos de experiência trabalhado na área de desenvolvimento de software e produtos, criei e participei de inúmeros projetos de tecnologia na área de saúde, ERP, jurídica, pesquisa, entre outros.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/gilbertocesarmoura/">Perfil no LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-09QZZM9J2S # your Google Analytics tracking ID here
